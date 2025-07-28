@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
+  Portfolio Website - click below<br/>
   <a href="https://ashutosh-gunjal-portfolio.vercel.app/" target="_blank">Ashutosh Gunjal</a>
 </h2>
 <div align="center">
