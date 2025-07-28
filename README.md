@@ -8,19 +8,6 @@
 
 <br/>
 
-<center>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
-
-</center>
-# Personal Portfolio
-
-Welcome to my personal portfolio! This repository showcases a collection of my projects, skills, and experiences. It serves as a comprehensive overview of my capabilities as a developer and my passion for creating impactful software solutions.
-
 ## ✨ Features
 
 *   **Responsive Design:** Optimized for various devices, ensuring a seamless experience across desktops, tablets, and mobile phones.
