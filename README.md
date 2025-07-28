@@ -3,7 +3,7 @@
   <a href="https://ashutosh-gunjal-portfolio.vercel.app/" target="_blank">Ashutosh Gunjal</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./" />
 </div>
 
 <br/>
